@@ -1,0 +1,3 @@
+[submodule "hypercore"]
+	path = hypercore
+	url = https://github.com/Vistara-Labs/hypercore.git
