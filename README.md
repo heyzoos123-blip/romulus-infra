@@ -2,6 +2,16 @@
 
 Token-gated AI agent orchestration built on [Hypercore](https://github.com/Vistara-Labs/hypercore).
 
+## Ecosystem
+
+| Repo | Purpose |
+|------|---------|
+| **[romulus](https://github.com/heyzoos123-blip/romulus)** | Wolf pack protocol + docs |
+| **[romulus-infra](https://github.com/heyzoos123-blip/romulus-infra)** | Infrastructure (this repo) |
+| **[darkflobi-industries](https://github.com/heyzoos123-blip/darkflobi-industries)** | Website + Netlify functions |
+
+**Live at:** [darkflobi.com/romulus](https://darkflobi.com/romulus)
+
 ## Architecture
 
 ```
